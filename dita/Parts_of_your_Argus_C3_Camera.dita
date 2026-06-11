@@ -1,3 +1,77 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
-<reference id="reference-9237" class="- topic/topic       reference/reference "><title class="- topic/title ">Specs and Parts of your Argus C3 Camera</title><abstract class="- topic/abstract "><p class="- topic/p ">The Argus C3 is a range finder camera capable of taking photos on 35mm film. The following are the specifications and the different parts of your camera which will be further referred to in this manual. </p><ul class="- topic/ul "><li class="- topic/li "><p class="- topic/p ">Lens - 50mm Argus Cintar lens</p></li><li class="- topic/li "><p class="- topic/p ">Shutter Speeds from 1/10th of a second to 1/300ths of a second and Bulb setting</p></li><li class="- topic/li "><p class="- topic/p ">Aperture settings from f/3.5 to f/16.</p></li><li class="- topic/li "><p class="- topic/p ">Range from 3 feet to Infinity</p></li></ul><image width="500" href="Images/camerafront.jpg" class="- topic/image "/><ul class="- topic/ul "><li class="- topic/li "><p class="- topic/p "><b class="+ topic/ph hi-d/b ">A </b>- Shutter Button</p></li><li class="- topic/li "><p class="- topic/p "><b class="+ topic/ph hi-d/b ">B</b> - Range Finder Dial</p></li><li class="- topic/li "><p class="- topic/p "><b class="+ topic/ph hi-d/b ">C</b> - Shutter Cocking Lever</p></li><li class="- topic/li "><p class="- topic/p "><b class="+ topic/ph hi-d/b ">D </b>- Rangefinder Window</p></li><li class="- topic/li "><p class="- topic/p "><b class="+ topic/ph hi-d/b ">E</b> - Viewfinder Window</p></li><li class="- topic/li "><p class="- topic/p "><b class="+ topic/ph hi-d/b ">F</b> - Film Winding Knob</p></li><li class="- topic/li "><p class="- topic/p "><b class="+ topic/ph hi-d/b ">G</b> - Shutter Speed Dial</p></li><li class="- topic/li "><p class="- topic/p "><b class="+ topic/ph hi-d/b ">H</b> - Aperture Dial</p></li></ul><p class="- topic/p "><image width="500" href="Images/cameratop.jpg" class="- topic/image "/></p><ul class="- topic/ul "><li class="- topic/li "><p class="- topic/p "><b class="+ topic/ph hi-d/b ">I</b> - Film Catch</p></li><li class="- topic/li "><p class="- topic/p "><b class="+ topic/ph hi-d/b ">J</b> - Film Counter Dial</p></li><li class="- topic/li "><p class="- topic/p "><b class="+ topic/ph hi-d/b ">K</b> - Bulb and Instantaneous Switch</p></li></ul><p class="- topic/p "><image width="500" href="Images/cameraback.jpg" class="- topic/image "/></p><ul class="- topic/ul "><li class="- topic/li "><p class="- topic/p "><b class="+ topic/ph hi-d/b ">L</b> - Viewfinder Window</p></li><li class="- topic/li "><p class="- topic/p "><b class="+ topic/ph hi-d/b ">M </b>- Rangefinder Window</p></li><li class="- topic/li "><p class="- topic/p "><b class="+ topic/ph hi-d/b ">N</b> - Reminder Dial</p></li></ul></abstract><prolog class="- topic/prolog "><author translate="no" type="creator" class="- topic/author ">Erick Leach &lt;eleach@ucdavis.edu&gt;</author><metadata class="- topic/metadata "><keywords class="- topic/keywords "/></metadata></prolog><refbody class="- topic/body        reference/refbody "/></reference>
+<reference id="reference-9237">
+    <title>Specs and Parts of your Argus C3 Camera</title>
+    <abstract>
+        <p>The Argus C3 is a range finder camera capable of taking photos on 35mm film. The following are the specifications and the different parts of your camera which will be further referred to in this manual. </p>
+        <ul>
+            <li>
+                <p>Lens - 50mm Argus Cintar lens</p>
+            </li>
+            <li>
+                <p>Shutter Speeds from 1/10th of a second to 1/300ths of a second and Bulb setting</p>
+            </li>
+            <li>
+                <p>Aperture settings from f/3.5 to f/16.</p>
+            </li>
+            <li>
+                <p>Range from 3 feet to Infinity</p>
+            </li>
+        </ul><image href="Images/camerafront.jpg" width="500"/>
+        <ul>
+            <li>
+                <p><b>A </b>- Shutter Button</p>
+            </li>
+            <li>
+                <p><b>B</b> - Range Finder Dial</p>
+            </li>
+            <li>
+                <p><b>C</b> - Shutter Cocking Lever</p>
+            </li>
+            <li>
+                <p><b>D </b>- Rangefinder Window</p>
+            </li>
+            <li>
+                <p><b>E</b> - Viewfinder Window</p>
+            </li>
+            <li>
+                <p><b>F</b> - Film Winding Knob</p>
+            </li>
+            <li>
+                <p><b>G</b> - Shutter Speed Dial</p>
+            </li>
+            <li>
+                <p><b>H</b> - Aperture Dial</p>
+            </li>
+        </ul>
+        <p><image href="Images/cameratop.jpg" width="500"/></p>
+        <ul>
+            <li>
+                <p><b>I</b> - Film Catch</p>
+            </li>
+            <li>
+                <p><b>J</b> - Film Counter Dial</p>
+            </li>
+            <li>
+                <p><b>K</b> - Bulb and Instantaneous Switch</p>
+            </li>
+        </ul>
+        <p><image href="Images/cameraback.jpg" width="500"/></p>
+        <ul>
+            <li>
+                <p><b>L</b> - Viewfinder Window</p>
+            </li>
+            <li>
+                <p><b>M </b>- Rangefinder Window</p>
+            </li>
+            <li>
+                <p><b>N</b> - Reminder Dial</p>
+            </li>
+        </ul>
+    </abstract>
+    <prolog>
+        <author translate="no" type="creator">Erick Leach &lt;eleach@ucdavis.edu&gt;</author>
+        <metadata>
+            <keywords/>
+        </metadata>
+    </prolog>
+    <refbody/>
+</reference>
