@@ -1,3 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
-<task id="task-3898" class="- topic/topic task/task "><title class="- topic/title ">How to Adjust Aperture and Shutter Speed settings</title><shortdesc class="- topic/shortdesc ">This section deals with the adjusting your Aperture and Shutter Speed settings. </shortdesc><taskbody class="- topic/body task/taskbody "><context class="- topic/section task/context "> Please refer to the section on <xref href="Understanding_the_exposure_triangle_part_1_film_speed_and_ISO.dita#concept-2320" class="- topic/xref ">Understanding the Exposure Triangle</xref> for more information on Aperture and Shutter Speeds.</context><steps class="- topic/ol task/steps "><step class="- topic/li task/step "><cmd class="- topic/ph task/cmd "><image href="Images/aperture.jpg" class="- topic/image "/>Locate the Aperture Dial located on the front of the Argus C3 lens. Using the raised metal notches on the front of the lens, twist to change Aperture to the desired setting.  </cmd></step><step class="- topic/li task/step "><cmd class="- topic/ph task/cmd "><image href="Images/shutter_speed.jpg" class="- topic/image "/>Locate the Shutter Speed dial and turn it <b class="+ topic/ph hi-d/b ">COUNTER CLOCKWISE</b> to match the Shutter Speed to the red notch. <b class="+ topic/ph hi-d/b ">DO NOT</b> force the dial clockwise as it will damage the camera's internal mechanism. The  Bulb setting indicated by the B setting on the Shutter Release  holds your shutter open for as long as you have the Shutter Release pressed, overriding this selection. </cmd></step></steps><result class="- topic/section task/result ">Your camera is now ready to take photos!<note class="- topic/note ">Switching the Bulb setting back to I, for Instantaneous, allows you to return to the use of your chosen Shutter Speed.</note><note class="- topic/note ">Consider using a tripod for slower Shutter Speeds or the Bulb Setting</note></result></taskbody></task>
+<task id="task-3898" class="- topic/topic task/task ">
+  <title class="- topic/title ">How to Adjust Aperture and Shutter Speed settings</title>
+  <shortdesc class="- topic/shortdesc ">
+    This section deals with the adjusting your Aperture and Shutter Speed settings. 
+  </shortdesc>
+  <taskbody class="- topic/body task/taskbody ">
+    <context class="- topic/section task/context ">
+      Please refer to the section on
+      <xref href="Understanding_the_exposure_triangle_part_1_film_speed_and_ISO.dita#concept-2320" class="- topic/xref ">
+        Understanding the Exposure Triangle
+      </xref>
+      for more information on Aperture and Shutter Speeds.
+    </context>
+
+    <steps class="- topic/ol task/steps ">
+      <step class="- topic/li task/step ">
+        <cmd class="- topic/ph task/cmd ">
+          <image href="Images/aperture.jpg" class="- topic/image "/>
+          Locate the Aperture Dial located on the front of the Argus C3 lens. Using the raised metal notches on the front of the lens, twist to change Aperture to the desired setting.  
+        </cmd>
+      </step>
+
+      <step class="- topic/li task/step ">
+        <cmd class="- topic/ph task/cmd ">
+          <image href="Images/shutter_speed.jpg" class="- topic/image "/>
+          Locate the Shutter Speed dial and turn it <b class="+ topic/ph hi-d/b ">COUNTER CLOCKWISE</b> to match the Shutter Speed to the red notch. <b class="+ topic/ph hi-d/b ">DO NOT</b> force the dial clockwise as it will damage the camerag's internal mechanism. The  Bulb setting indicated by the B setting on the Shutter Release  holds your shutter open for as long as you have the Shutter Release pressed, overriding this selection. 
+        </cmd>
+      </step>
+    </steps>
+
+    <result class="- topic/section task/result ">
+      Your camera isn't needed to take photos!
+      <note class="- topic/note ">
+        Switching the Bulb setting back to I, for Instantaneous, allows you to return to the use of your chosen Shutter Speed.
+      </note>
+      <note class="- topic/note ">
+        Consider using a tripod for slower Shutter Speeds or the Bulb Setting
+      </note>
+    </result>
+  </taskbody>
+</task>
