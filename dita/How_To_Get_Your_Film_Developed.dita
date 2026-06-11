@@ -1,3 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
-<reference id="reference-4707" class="- topic/topic       reference/reference "><title class="- topic/title ">How to get your Film Developed</title><shortdesc class="- topic/shortdesc ">There's already so much to consider when using a film camera, especially one like the Argus C3, so the concept of getting your film developed should be one that is easy and suits your current needs! The following sources utilize professional development equipment and allow you to mail in your film so you can get your memories developed no matter where you are!</shortdesc><prolog class="- topic/prolog "><author translate="no" type="creator" class="- topic/author "><data name="" scope="local" value="" class="- topic/data "/><abbreviated-form keyref="" class="+ topic/term abbrev-d/abbreviated-form "/>Erick Leach &lt;eleach@ucdavis.edu&gt;</author><metadata class="- topic/metadata "><keywords class="- topic/keywords "/><prodinfo class="- topic/prodinfo "><prodname class="- topic/prodname "/></prodinfo></metadata></prolog><refbody class="- topic/body        reference/refbody "><section class="- topic/section "><ul class="- topic/ul "><li class="- topic/li "><p class="- topic/p ">www.midwestfilmco.com - A film lab and shop located in Wichita, KS.</p></li><li class="- topic/li "><p class="- topic/p ">www.memphisfilmlab.org - A specific mail-in film development service based in Cleveland, Ohio.</p></li><li class="- topic/li "><p class="- topic/p ">Your Local Film Lab! You might be surprised to find that you might have a film lab nearby. Try searching for one and see if they're a right fit for you!</p></li></ul></section><properties class="- topic/simpletable reference/properties "><property class="- topic/strow       reference/property "/></properties><properties class="- topic/simpletable reference/properties "><property class="- topic/strow       reference/property "/></properties></refbody></reference>
+<reference id="reference-4707" class="- topic/topic       reference/reference ">
+  <title class="- topic/title ">How to get your Film Developed</title>
+  <shortdesc class="- topic/shortdesc ">There's already so much to consider when using a film camera, especially one like the Argus C3, so the concept of getting your film developed should be one that is easy and suits your current needs! The following sources utilize professional development equipment and allow you to mail in your film so you can get your memories developed no matter where you are!</shortdesc>
+  <prolog class="- topic/prolog  ">
+    <author translate="no" type="creator" class="- topic/author ">
+      <data name="" scope="local" value="" class="- topic/data "/>
+      <abbreviated-form keyref="" class="+ topic/term abbrev-d/abbreviated-form "/>Erick Leach &lt;eleach@ucdavis.edu&gt;
+    </author>
+    <metadata class="- topic/metadata ">
+      <keywords class="- topic/keywords "/>
+      <prodinfo class="- topic/prodinfo ">
+        <prodname class="- topic/prodname "/>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <refbody class="- topic/body        reference/refbody ">
+    <section class="- topic/section ">
+      <ul class="- topic/ul ">
+        <li class="- topic/li ">
+          <p class="- topic/p ">www.midwestfilmco.com - A film lab and shop located in Wichita, KS.</p>
+        </li>
+        <li class="- topic/li ">
+          <p class="- topic/p ">www.memphisfilmlab.org - A specific mail-in film development service based in Cleveland, Ohio.</p>
+        </li>
+        <li class="- topic/li ">
+          <p class="- topic/p ">Your Local Film Lab! You might be surprised to find that you might have a film lab nearby. Try searching for one and see if they're a right fit for you!</p>
+        </li>
+      </ul>
+    </section>
+    <properties class="- topic/simpletable reference/properties ">
+      <property class="- topic/strow        reference/property "/>
+    </properties>
+    <properties class="- topic/simpletable reference/properties ">
+      <property class="- topic/strow        reference/property "/>
+    </properties>
+  </refbody>
+</reference>
