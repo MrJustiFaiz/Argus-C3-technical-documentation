@@ -1,3 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
-<task id="task-8267" class="- topic/topic task/task "><title class="- topic/title ">How to Take a Photo</title><shortdesc class="- topic/shortdesc ">After having your desired aperture and shutter speed settings, you are now ready to take photos!</shortdesc><taskbody class="- topic/body task/taskbody "><context class="- topic/section task/context "/><steps class="- topic/ol task/steps "><step class="- topic/li task/step "><cmd class="- topic/ph task/cmd ">Locate the Shutter Cocking Lever on the front of the camera and push it down to engage the Shutter Release.</cmd></step><step class="- topic/li task/step "><cmd class="- topic/ph task/cmd ">Look through the View Finder on the rear of the camera and get your subject in general view.</cmd></step><step class="- topic/li task/step "><cmd class="- topic/ph task/cmd ">Then look at your subject through the Range Finder and turn the  Range Finder Dial until the two half-images form a complete image. This indicates you have the correct range. </cmd></step><step class="- topic/li task/step "><cmd class="- topic/ph task/cmd ">Look again through the View Finder and compose your shot</cmd></step><step class="- topic/li task/step "><cmd class="- topic/ph task/cmd ">Press the Shutter Release to take your photo.</cmd></step><step class="- topic/li task/step "><cmd class="- topic/ph task/cmd ">To advance your film, hold down the Film Catch and turn the Film Wind Knob a half turn then release the film catch. Continue turning until the Film Wind Knob stops.</cmd></step></steps><result class="- topic/section task/result ">The Film Counter Dial should now have advanced by one and the next photo is ready to be taken.<note class="- topic/note ">Remember to advance your film after every shot so you don't risk taking a photo over the one you just took!</note></result></taskbody></task>
+<task id="task-8267" class="- topic/topic task/task ">
+  <title class="- topic/title ">How to Take a Photo</title>
+  <shortdesc class="- topic/shortdesc ">After having your desired aperture and shutter speed set up on your camera, you will be able to take quality photos. In most cases, it is good practice to set your ISO setting to Auto, unless you are in a situation where you have plenty of light, then ISO 100 would be your best choice. If you do not have plenty of light, try setting your ISO setting to 1600 or higher.</shortdesc>
+  <taskbody class="- topic/body task/taskbody ">
+    <steps class="- topic/ol task/steps ">
+      <step class="- topic/li task/step ">
+        <cmd class="- topic/ph task/cmd ">Look through the viewfinder and focus on your subject using auto-focus.</cmd>
+      </step>
+      <step class="- topic/li task/step ">
+        <cmd class="- topic/ph task/cmd ">Adjust the Exposure Compensation setting if needed.</cmd>
+      </step>
+      <step class="- topic/li task/step ">
+        <cmd class="- topic/ph task/cmd ">Hold the camera steady.</cmd>
+      </step>
+      <step class="- topic/li task/step ">
+        <cmd class="- topic/ph task/cmd ">Press the shutter release button to take the photograph.</cmd>
+      </step>
+    </steps>
+    <result class="- topic/section task/result ">
+      <p class="- topic/p ">Your photograph will now be captured on your memory card and ready to be reviewed.</p>
+    </result>
+    <postreq class="- topic/section task/postreq ">
+      <p class="- topic/p ">Review your photo and check focus, exposure, and composition. If you are not satisfied with the result, you can retake the photo.</p>
+    </postreq>
+  </taskbody>
+</task>
