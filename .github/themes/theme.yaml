@@ -5,18 +5,18 @@
 # ↓ add-brand-colors ↓
 brand:
   color:
-    primary: '#861F41'
-    secondary: '#E5751F'
-    tertiary: '#75787b'
+    primary: '#0A5F7F'
+    secondary: '#1E9FBC'
+    tertiary: '#40E0D0'
     inverse: '#FFFFFF'
-    links: '#3563ab'
+    links: '#0077BE'
     note:
       background:
-        attention: '#fff3cd'
-        caution: '#f8d7da'
-        info: '#dce4f0'
-        tip: '#d1e7dd'
-    xml-domain: '#639'
+        attention: '#E0F7FF'
+        caution: '#FFE5D9'
+        info: '#D1EFF5'
+        tip: '#C1F0E0'
+    xml-domain: '#0B6BA8'
 # ↑ end-brand-colors ↑
 
 # ↓ add-font-stacks ↓
