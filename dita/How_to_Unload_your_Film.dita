@@ -1,3 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
-<task id="task-8059" class="- topic/topic task/task "><title class="- topic/title ">How to Unload your Film</title><shortdesc class="- topic/shortdesc ">Unloading your film is just as easy as loading it!</shortdesc><taskbody class="- topic/body task/taskbody "><context class="- topic/section task/context ">When your Film Advance Counter no longer turns, this means your film canister is empty. It's time to rewind and unload your film!</context><steps class="- topic/ol task/steps "><step class="- topic/li task/step "><cmd class="- topic/ph task/cmd ">Locate the Rewind Knob on the bottom of your camera and begin turning it in the direction of the arrow. As your turn the knob, the Film Advance Counter will begin rewinding as well. Use this as a guide.</cmd></step><step class="- topic/li task/step "><cmd class="- topic/ph task/cmd ">When the Film Advance Counter stops turning, turn the Rewind Knob 3 more times to ensure the film leader is fully rewound inside the Film Cartridge</cmd></step><step class="- topic/li task/step "><cmd class="- topic/ph task/cmd ">Open the back and remove your film. </cmd></step></steps><result class="- topic/section task/result "><note class="- topic/note "> Remember not to open the back of the camera until you have finished your roll and have fully rewound the film into the canister! Doing so will expose your negatives to light and destroy your film!</note>Your old film roll is now ready for developing and your camera is ready for a new roll!</result></taskbody></task>
+<task id="task-8059" class="- topic/topic task/task ">
+  <title class="- topic/title ">How to Unload your Film</title>
+  <shortdesc class="- topic/shortdesc ">Unloading your film is just as easy as loading it!</shortdesc>
+  <taskbody class="- topic/body task/taskbody ">
+    <context class="- topic/section task/context ">
+      When your Film Advance Counter no longer turns, this means your film canister is empty. It's time to rewind and unload your film!
+    </context>
+    <steps class="- topic/ol task/steps ">
+      <step class="- topic/li task/step ">
+        <cmd class="- topic/ph task/cmd ">
+          Locate the Rewind Knob on the bottom of your camera and begin turning it in the direction of the arrow. As your turn the knob, the Film Advance Counter will begin rewinding as well. Use this as a guide.
+        </cmd>
+      </step>
+      <step class="- topic/li task/step ">
+        <cmd class="- topic/ph task/cmd ">
+          When the Film Advance Counter stops turning, turn the Rewind Knob 3 more times to ensure the film leader is fully rewound inside the Film Cartridge
+        </cmd>
+      </step>
+      <step class="- topic/li task/step ">
+        <cmd class="- topic/ph task/cmd ">
+          Open the back and remove your film. 
+        </cmd>
+      </step>
+    </steps>
+    <result class="- topic/section task/result ">
+      <note class="- topic/note ">
+        Remember not to open the back of the camera until you have finished your roll and have fully rewound the film into the canister! Doing so will expose your negatives to light and destroy your film!
+      </note>
+      Your old film roll is now ready for developing and your camera is ready for a new roll!
+    </result>
+  </taskbody>
+</task>
