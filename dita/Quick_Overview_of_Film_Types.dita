@@ -1,3 +1,34 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="concept-5899" xml:lang="en-us" class="- topic/topic concept/concept "><title class="- topic/title ">Quick Overview of Film for your Camera</title><shortdesc class="- topic/shortdesc ">There are many brands of film available for your Argus C3 but what are the types, film speed and why does it matter? This guide will offer a small overview.</shortdesc><prolog class="- topic/prolog "><author translate="no" type="creator" class="- topic/author ">Erick Leach &lt;eleach@ucdavis.edu&gt;</author><metadata class="- topic/metadata "><keywords class="- topic/keywords "/></metadata></prolog><conbody class="- topic/body  concept/conbody "><p class="- topic/p ">The Argus C3 uses 35mm film which comes in 3 main types each with their own pros and cons:</p><ul class="- topic/ul "><li class="- topic/li "><p class="- topic/p "><b class="+ topic/ph hi-d/b ">Black and White Negative</b> - The standard black and white film, cheap and widely available, but emphasizes importance in contrast and light to get the right composition.</p></li><li class="- topic/li "><p class="- topic/p "><b class="+ topic/ph hi-d/b ">Color Negative (C-41)</b> - Standard color film, many varieties for many situations, slightly more expensive, easier to shoot than black and white.</p></li><li class="- topic/li "><p class="- topic/p "><b class="+ topic/ph hi-d/b ">Slide Film (E-6)</b> - True to color film with vivid colors when exposed, can be viewed through a projector but very expensive and not many labs process it. </p></li></ul><p class="- topic/p ">Film Negative here means that the developed film will have its colors negative to their true colors. Only when scanned and processed after being developed can you see your photo in true color. A guide on <xref href="How_To_Get_Your_Film_Developed.dita" class="- topic/xref ">How to Get Your Film Developed</xref> can be found here. </p><p class="- topic/p ">Film varieties also come in speeds which dictate the films sensitivity to light, shown as ISO numbers, e.g. ISO 400. The lower the number, the less sensitive and the higher, the more sensitive. This also dictates how much  film grain is present as a lower sensitivity film will have less grain and vice-versa. A brighter environment will call for a lower ISO and a dimmer environment will want a higher one. 400 is a safe go to speed for any situation or you might use 200 ISO on a sunny summer day. Here are a couple examples of film stock you can buy for your camera.</p><ul class="- topic/ul "><li class="- topic/li "><p class="- topic/p "><b class="+ topic/ph hi-d/b ">FujiFilm 400</b> - Standard color film, versatile for any occasion!<image width="250" href="Images/fujifilm400.jpg" class="- topic/image "/></p></li><li class="- topic/li "><p class="- topic/p "><b class="+ topic/ph hi-d/b ">Ilford HP5 Plus</b> - Ilford has been developing film for more than 60 years. Their black and white film has been the photographic standard for equally as long. <image width="250" href="Images/ilfordhp5.jpg" class="- topic/image "/></p></li></ul></conbody></concept>
+<concept id="concept-5899" xml:lang="en-us">
+    <title>Quick Overview of Film for your Camera</title>
+    <shortdesc>There are many brands of film available for your Argus C3 but what are the types, film speed and why does it matter? This guide will offer a small overview.</shortdesc>
+    <prolog>
+        <author translate="no" type="creator">Erick Leach &lt;eleach@ucdavis.edu&gt;</author>
+        <metadata>
+            <keywords/>
+        </metadata>
+    </prolog>
+    <conbody>
+        <p>The Argus C3 uses 35mm film which comes in 3 main types each with their own pros and cons:</p>
+        <ul>
+            <li>
+                <p><b>Black and White Negative</b> - The standard black and white film, cheap and widely available, but emphasizes importance in contrast and light to get the right composition.</p>
+            </li>
+            <li>
+                <p><b>Color Negative (C-41)</b> - Standard color film, many varieties for many situations, slightly more expensive, easier to shoot than black and white.</p>
+            </li>
+            <li>
+                <p><b>Slide Film (E-6)</b> - True to color film with vivid colors when exposed, can be viewed through a projector but very expensive and not many labs process it. </p>
+            </li>
+        </ul>
+        <p>Film Negative here means that the developed film will have its colors negative to their true colors. Only when scanned and processed after being developed can you see your photo in true color. A guide on <xref href="How_To_Get_Your_Film_Developed.dita">How to Get Your Film Developed</xref> can be found here. </p>
+        <p>Film varieties also come in speeds which dictate the films sensitivity to light, shown as ISO numbers, e.g. ISO 400. The lower the number, the less sensitive and the higher, the more sensitive. This also dictates how much film grain is present as a lower sensitivity film will have less grain and vice-versa. A brighter environment will call for a lower ISO and a dimmer environment will want a higher one. 400 is a safe go to speed for any situation or you might use 200 ISO on a sunny summer day. Here are a couple examples of film stock you can buy for your camera.</p>
+        <ul>
+            <li>
+                <p><b>FujiFilm 400</b> - Standard color film, versatile for any occasion!<image href="Images/fujifilm400.jpg" width="250"/></p>
+            </li>
+            <li>
+                <p><b>Ilford HP5 Plus</b> - Ilford has been developing film for more than 60 years. Their black and white film has been the photographic standard for equally as long. <image href="Images/ilfordhp5.jpg" width="250"/></p>
+            </li>
+        </ul>
+    </conbody>
+</concept>
